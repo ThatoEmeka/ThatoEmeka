@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thatoemeka" alt="thatoemeka" /></a> </p>
 
+<center><a href="https://www.linkedin.com/in/thato-nwamadi-991623189/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn" width="140" height="40"/></a></center>
+
 - 🌱 I’m currently learning **C#, Soap, Flutter and Xamarin**
 
 - 🤝 I’m looking for help with **SOAP API development**
